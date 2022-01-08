@@ -1,1 +1,1 @@
-conole.log ('Ola vivi')
+console.log ('Ola vivi')
